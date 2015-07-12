@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cégep Saint-Jérôme
+=======
+CÃ©gep de Saint-JÃ©rÃ´me
+>>>>>>> upstream/master

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hetic La grande école de l'internet
+=======
+HETIC, la grande école d'internet
+>>>>>>> upstream/master

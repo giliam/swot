@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 École d'art Emile Cohl de Lyon
+=======
++École d'art Emile Cohl de Lyon
+>>>>>>> upstream/master

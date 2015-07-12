@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Duale Hochschule Baden-Württemberg, Mosbach
+=======
+Duale Hochschule Baden-Württemberg, Mosbach
+>>>>>>> upstream/master

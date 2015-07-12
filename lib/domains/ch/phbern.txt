@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Pädagogische Hochschule Bern
+=======
+Pädagogische Hochschule Bern (University of Teacher Education Bern)
+>>>>>>> upstream/master

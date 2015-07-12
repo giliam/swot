@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Haute Ecole de Namur-Liège-Luxembourg (Henallux)
+=======
+Haute ecole de namur-liege-luxembourg
+>>>>>>> upstream/master

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 EPHEC - Ecole Pratique des Hautes Etudes Commerciales
+=======
+Economics and Technics School
+>>>>>>> upstream/master
